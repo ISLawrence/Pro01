@@ -6,10 +6,10 @@ A cleaner demonstration of all the information in this repo can be found on my K
 Included are: 
 
 **Markdown:** 
-Contents: R Markdown of project
+*Contents: R Markdown of project
 
 **Tripdata:**
-Contents: Analyzed and modified .csv files for project.
+*Contents: Analyzed and modified .csv files for project.
  * NOTE: These files have been modified via LFS to be uploaded and stored on GitHub. Recommended you access the [Kaggle page](https://www.kaggle.com/code/ianand/capstone-cyclistic-data-analysis) that shows this analysis better.
 
 
