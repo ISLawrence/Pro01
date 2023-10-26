@@ -4,6 +4,7 @@ A demonstration of data analytical abilities on a capstone projects consisting o
 A cleaner demonstration of all the information in this repo can be found on my Kaggle page [HERE](https://www.kaggle.com/code/ianand/capstone-cyclistic-data-analysis).
 
 Included are: 
+
 Markdown: 
  * Contents: R Markdown of project
 Tripdata:
